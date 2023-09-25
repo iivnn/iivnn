@@ -1,7 +1,13 @@
-<h1 align="center">Olá 👋, me chamo Ivan</h1>
+<h1 align="center">Olá 👋, me chamo (Hello 👋, my name is) Ivan</h1>
 <h3 align="center">Desenvolvedor de software full stack - Software delevoper full stack</h3>
 
+- 🔭 Estou trabalhando no (I’m currently working on) [adote app (adoption app)](https://github.com/iivnn/adote_app)
+
+- 🌱Estou aprendendo sobre (I’m currently learning) **AWS, Microserviços**
+
 - 📫 Como entrar em contato comigo (How to reach me) **iivnn00@gmail.com**
+
+- ⚡ Fun fact **Faz anos que não uso Java (i don't program in java for years)**
 
 <h3 align="left">Fale comigo (Connect with me):</h3>
 <p align="left">
