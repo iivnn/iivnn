@@ -7,7 +7,7 @@
 
 - 📫 Como entrar em contato comigo (How to reach me) **iivnn00@gmail.com**
 
-- ⚡ Fun fact **Faz anos que não uso Java (i don't program in java for years)**
+- ⚡ Fun fact **Faz anos que não uso Java (i don't use java for years)**
 
 <h3 align="left">Fale comigo (Connect with me):</h3>
 <p align="left">
